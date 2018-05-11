@@ -32,6 +32,7 @@ public class PredicateDemo {
         Product product = new Product(100,"西瓜",23.2f,"新疆");
         Product product2 = new Product(101,"西红柿",4.3f,"四川");
         Product product3 = new Product(102,"冬瓜",5.2f,"辽宁");
+
         List<Product> products = new ArrayList<>();
         products.add(product);
         products.add(product2);
