@@ -1,0 +1,28 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "java00",
+                "projectName": "java00",
+                "workingDirectory": "d:\\home\\JavaDemo\\java00",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "java00",
+                "projectName": "java00",
+                "workingDirectory": "d:\\home\\JavaDemo\\java00",
+                "args": [],
+                "vmargs": [],
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
